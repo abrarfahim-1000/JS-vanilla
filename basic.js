@@ -18,7 +18,7 @@ console.log(fruits)
 
 //python's .append() is .push() here
 
-const person1={
+let person1={
     firstName:'John',
     lastName:'Doe',
     age:30,
